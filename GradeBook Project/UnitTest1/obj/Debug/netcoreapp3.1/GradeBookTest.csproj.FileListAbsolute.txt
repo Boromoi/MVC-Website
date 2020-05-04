@@ -1,0 +1,4 @@
+C:\Program Files (x86)\Visual Studio Projects\UnitTest1\obj\Debug\netcoreapp3.1\GradeBookTest.csprojAssemblyReference.cache
+C:\Program Files (x86)\Visual Studio Projects\UnitTest1\obj\Debug\netcoreapp3.1\GradeBookTest.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Visual Studio Projects\UnitTest1\obj\Debug\netcoreapp3.1\GradeBookTest.AssemblyInfoInputs.cache
+C:\Program Files (x86)\Visual Studio Projects\UnitTest1\obj\Debug\netcoreapp3.1\GradeBookTest.AssemblyInfo.cs

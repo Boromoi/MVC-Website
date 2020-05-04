@@ -1,0 +1,18 @@
+﻿<Window x:Class="TimeCalculatorApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TimeCalculatorApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Margin="0,0,0,-16">
+        <Button Content="Antwoord" HorizontalAlignment="Center" Margin="0,303,0,0" VerticalAlignment="Top" Height="137" Width="800" Click="Button_Click"/>
+        <TextBox Name="Tekstbox1" HorizontalAlignment="Left" Margin="100,96,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="145" Height="32" KeyDown="NummericCheckEvent"/>
+        <TextBox Name="Tekstbox2" HorizontalAlignment="Left" Margin="588,96,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="145" Height="32" KeyDown="NummericCheckEvent"/>
+        <TextBlock HorizontalAlignment="Left" Margin="301,225,0,0" Text="Het verschil is:" TextWrapping="Wrap" VerticalAlignment="Top" Width="94" Height="19"/>
+        <TextBlock Name="Tekstblock1" HorizontalAlignment="Left" Margin="400,225,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <Label Name="LabelTekstbox1" Content="Vul hier je begin tijd in" HorizontalAlignment="Left" Margin="100,70,0,0" VerticalAlignment="Top" Width="145"/>
+        <Label Name="LabelTekstbox2" Content="Vul hier je eind tijd in" HorizontalAlignment="Left" Margin="588,70,0,0" VerticalAlignment="Top" Width="145"/>
+    </Grid>
+</Window>

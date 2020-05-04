@@ -1,0 +1,13 @@
+C:\Program Files (x86)\Visual Studio Projects\Gradebook\bin\Debug\netcoreapp3.1\Gradebook.exe
+C:\Program Files (x86)\Visual Studio Projects\Gradebook\bin\Debug\netcoreapp3.1\Gradebook.deps.json
+C:\Program Files (x86)\Visual Studio Projects\Gradebook\bin\Debug\netcoreapp3.1\Gradebook.runtimeconfig.json
+C:\Program Files (x86)\Visual Studio Projects\Gradebook\bin\Debug\netcoreapp3.1\Gradebook.runtimeconfig.dev.json
+C:\Program Files (x86)\Visual Studio Projects\Gradebook\bin\Debug\netcoreapp3.1\Gradebook.dll
+C:\Program Files (x86)\Visual Studio Projects\Gradebook\bin\Debug\netcoreapp3.1\Gradebook.pdb
+C:\Program Files (x86)\Visual Studio Projects\Gradebook\obj\Debug\netcoreapp3.1\Gradebook.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Visual Studio Projects\Gradebook\obj\Debug\netcoreapp3.1\Gradebook.AssemblyInfoInputs.cache
+C:\Program Files (x86)\Visual Studio Projects\Gradebook\obj\Debug\netcoreapp3.1\Gradebook.AssemblyInfo.cs
+C:\Program Files (x86)\Visual Studio Projects\Gradebook\obj\Debug\netcoreapp3.1\Gradebook.dll
+C:\Program Files (x86)\Visual Studio Projects\Gradebook\obj\Debug\netcoreapp3.1\Gradebook.pdb
+C:\Program Files (x86)\Visual Studio Projects\Gradebook\obj\Debug\netcoreapp3.1\Gradebook.genruntimeconfig.cache
+C:\Program Files (x86)\Visual Studio Projects\gradebook\obj\Debug\netcoreapp3.1\Gradebook.csprojAssemblyReference.cache
