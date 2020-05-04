@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <StartupObject>Google.Apis.YouTube.Samples.MyUploads</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Google.Apis.Auth" Version="1.45.0" />
+    <PackageReference Include="Google.Apis.YouTube.v3" Version="1.45.0.1929" />
+  </ItemGroup>
+
+</Project>
